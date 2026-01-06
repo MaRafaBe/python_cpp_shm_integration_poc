@@ -43,6 +43,8 @@
 # CMAKE FILES AND MAKE FILES
 build/
 # ------------------------------------#
+# MACOS 
+*.DS_Store
 #Python 
 *.env
 *.tmp
